@@ -1,6 +1,6 @@
 {
   "name": "posthtml-collect-styles",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Collect styles from html and put it in the head",
   "main": "index.js",
   "scripts": {
